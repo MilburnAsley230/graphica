@@ -1,6 +1,6 @@
 {
   "name": "graphica",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -35,12 +35,13 @@
     "vite": "^5.2.6",
     "vue": "^3.4.21",
     "webpack": "^5.91.0",
-    "[object Object]": "^1.0.0",
     "graphify": "^1.0.0",
     "chartinator": "^1.0.0",
     "vizify": "^1.0.0",
     "flexify": "^1.0.0",
     "themify": "^1.0.0",
-    "stylegen": "^1.0.0"
+    "stylegen": "^1.0.0",
+    "layoutify": "^1.0.0",
+    "gridify": "^1.0.0"
   }
 }
